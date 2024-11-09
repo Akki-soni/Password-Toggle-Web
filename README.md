@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Weather App</h1>
+<h1 align="center">Password Toggle</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -18,15 +18,15 @@
 </p>
 
 <p align="center">
-  A simple weather application built using HTML, CSS, and JavaScript. This app allows users to get real-time weather information for any city around the world.
+  A simple Password Toggle feature built using HTML, CSS, and JavaScript. This functionality allows users to show or hide their password input when entering it into a form.
 </p>
 
 ## 🚀 Features
 
-- ***Fetches real-time weather data using a third-party API.***
-- ***Displays temperature, humidity, wind speed, and weather conditions.***
-- ***User-friendly interface with responsive design.***
-- ***Search functionality to find weather details by city name.***
+- ***Toggle between showing and hiding the password field.***
+- ***Enhances user experience by providing a way to verify the entered password.***
+- ***Responsive and clean UI design.***
+- ***Easy to integrate into any web form.***
 
 ## 🛠️ Technologies Used
 
