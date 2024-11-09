@@ -36,17 +36,17 @@
 
 ## 🚀 How to Use
 
-- ***Open the weather app in your web browser.***
-- ***Enter the name of the city in the search bar.***
-- ***Press enter or click the search button to view the weather information for the entered city.***
+- ***Enter a password in the input field.***
+- ***Click the "eye" icon (or button) to toggle between showing and hiding the password.***
+- ***The password will either be shown in plain text or hidden as dots (or asterisks) based on the toggle.***
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Weather_App-main.git>
-cd weather-app
+git clone <>
+cd password-toggle
 open index.html
 ```
 
@@ -58,17 +58,13 @@ open index.html
 └── script.js  # The JavaScript file for functionality
 ```
 
-## 🚀 API
-
-This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data. You need to sign up for an API key and replace the placeholder in the JavaScript file with your key.
-
 ## 🌟 Screenshots
 
-![Weather-App Screenshot](/images/W-A_Screenshot.png)
+![Password-toggle Screenshot](_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://weather-app-main-ruddy.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
@@ -90,7 +86,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You &#10084;
