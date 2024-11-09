@@ -64,7 +64,7 @@ open index.html
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://password-toggle-web.vercel.app/)
 
 ## 🤝 Contributing
 
