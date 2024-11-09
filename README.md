@@ -30,9 +30,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For structuring the application.
-- **CSS**: For styling the application.
-- **JavaScript**: For handling the logic and API integration.
+- **HTML**: For creating the structure of the form and input fields.
+- **CSS**: For styling the form and toggle button.
+- **JavaScript**: For adding functionality to toggle the password visibility.
 
 ## 🚀 How to Use
 
